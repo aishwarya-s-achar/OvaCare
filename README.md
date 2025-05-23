@@ -6,7 +6,7 @@ PCOS detection and wellness support
 
 An intelligent health assistant to detect **Polycystic Ovary Syndrome (PCOS)** early using machine learning. This system uses a React-based frontend and a Flask-powered backend to provide users with a seamless experience for health prediction and awareness.
 
-![Screenshot](assets/mlmodel.jpg)
+![Screenshot](assets/ml_model.jpg)
 
 ---
 

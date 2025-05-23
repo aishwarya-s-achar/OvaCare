@@ -34,7 +34,7 @@ PCOS affects millions of women globally, often going undiagnosed. Our solution u
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React, Axios, Tailwind CSS *(if used)*
+- **Frontend:** React, Axios, Tailwind CSS
 - **Backend:** Python, Flask, scikit-learn
 - **ML Models:** Random Forest, Logistic Regression, SVM
 - **Other Tools:** pandas, numpy, matplotlib, seaborn

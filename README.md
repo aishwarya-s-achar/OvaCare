@@ -2,10 +2,12 @@
 PCOS detection and wellness support
 # 🧠 PCOS Early Detection System (AI + React + Flask)
 
+![Screenshot](assets/homepage.jpg)
+
 An intelligent health assistant to detect **Polycystic Ovary Syndrome (PCOS)** early using machine learning. This system uses a React-based frontend and a Flask-powered backend to provide users with a seamless experience for health prediction and awareness.
 
+![Screenshot](assets/mlmodel.jpg)
 
-![Screenshot](assets/homepage.jpg)
 ---
 
 
@@ -16,6 +18,8 @@ PCOS affects millions of women globally, often going undiagnosed. Our solution u
 
 ---
 
+![Screenshot](assets/diet.jpg)
+
 ## 🖼 Features
 
 - ✨ User-friendly web interface built with **React**
@@ -24,6 +28,8 @@ PCOS affects millions of women globally, often going undiagnosed. Our solution u
 - 📈 Visual insights into feature importance
 - 🌐 Connected via a REST API using **Flask**
 
+
+![Screenshot](assets/dashboard.jpg)
 ---
 
 ## 🛠 Tech Stack

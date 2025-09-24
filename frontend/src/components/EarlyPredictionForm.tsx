@@ -25,7 +25,7 @@ const EarlyPredictionForm: React.FC = () => {
     setLoading(true);
     setPrediction(null);
     try {
-      const response = await axios.post('http://localhost:5000/predict', formData);
+      const response = await axios.post('http://localhost:5001/predict', formData);
       setPrediction(`Chance of PCOS: ${response.data.probability}%`);
     } catch (error) {
       console.error(error);

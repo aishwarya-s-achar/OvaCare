@@ -38,3 +38,18 @@ PCOS affects millions of women globally, often going undiagnosed. Our solution u
 - **Backend:** Python, Flask, scikit-learn
 - **ML Models:** Random Forest, Logistic Regression, SVM
 - **Other Tools:** pandas, numpy, matplotlib, seaborn
+
+commands:
+(frontend)
+cd frontend
+npm i
+npm run dev
+
+
+(backend)
+cd pcos-ml-api
+python train_model.py
+python app.py
+
+
+
